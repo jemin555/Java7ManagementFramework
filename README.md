@@ -76,7 +76,7 @@ h) It  is  used  for developing enterprise  webapplication  to  be  used     wit
 
 i)  It  helps   developers   to  develop  a   enterprise webapplication  as  fast  as   could.
 
-j)  When  used    with  OAKJAVA7   can   eliminate   the  demerits   of  java/j2ee.
+j)  When  used    with  OAKJAVA7   can   be  used  for  MachineLearning webapplication.
 
 Provide  much  more     code security  when  used  with OAKJAVA7.
 
