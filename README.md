@@ -74,8 +74,6 @@ G) We   can  use   with Jquery ,Javascript  for  validation.
 
 h) It  is  used  for developing enterprise  webapplication  to  be  used     with  struts/ spring /spring  boot and  hibernate.
 
-eg)   WTALLY  is  designed  Using   JMF  framework
-
 i)  It  helps   developers   to  develop  a   enterprise webapplication  as  fast  as   could.
 
 j)  When  used    with  OAKJAVA7   can   eliminate   the  demerits   of  java/j2ee.
