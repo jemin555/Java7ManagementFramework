@@ -6,7 +6,7 @@ ABOUT  Java7ManagementFramework(JMF7)
 
 Java7ManagementFramework(JMF7)   is  invented  by  wilmixjemin  j  
 
-at  oakjava7(JAVA7.0)  and  solomonring  focused on machinelearning.
+at  oakjava7(JAVA7.0).
 
 
 
